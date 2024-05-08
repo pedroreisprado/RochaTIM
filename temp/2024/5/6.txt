@@ -1,0 +1,124 @@
+[06-05-2024 10:44:02] - PROCESSO INICIADO
+[06-05-2024 10:44:05] - Etapa de coletar a senha no RSA
+[06-05-2024 10:44:08] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 10:44:08] - Etapa de entrar o SIEBEL
+[06-05-2024 10:44:29] - PROCESSO INICIADO
+[06-05-2024 10:44:30] - Etapa de coletar a senha no RSA
+[06-05-2024 10:44:33] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 10:44:33] - Etapa de entrar o SIEBEL
+[06-05-2024 10:45:19] - Etapa de entrar no SIEBEL Finalizada
+[06-05-2024 10:45:19] - Etapa de entrar em Nova Solicitação
+[06-05-2024 10:45:47] - Etapa de entrar em Nova Solicitação Finalizada
+[06-05-2024 10:45:47] - Etapa de coletar os numeros dos clientes
+[06-05-2024 10:46:16] - Etapa de coletar os numeros dos clientes finalizada
+[06-05-2024 10:46:16] - Etapa de pesquisar os clientes no SIEBEL
+[06-05-2024 10:46:16] - Etapa de Pesquisar Cliente 19981910258
+[06-05-2024 10:46:35] - Etapa de Pesquisar Cliente 19981910258 Finalizada
+[06-05-2024 10:46:35] - Inicio da etapa de Coletar informações do Cliente 19981910258
+[06-05-2024 10:46:51] - Etapa da coleta de informação do cliente 19981910258 Finalizado
+[06-05-2024 10:46:51] - Etapa de download da Fatura
+[06-05-2024 10:48:03] - Colocando informações no Excel
+[06-05-2024 10:48:03] - Etapa de Pesquisar Cliente 14997432037
+[06-05-2024 10:50:56] - PROCESSO INICIADO
+[06-05-2024 10:50:57] - Etapa de coletar a senha no RSA
+[06-05-2024 10:51:00] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 10:51:00] - Etapa de entrar o SIEBEL
+[06-05-2024 10:51:43] - Etapa de entrar no SIEBEL Finalizada
+[06-05-2024 10:51:43] - Etapa de entrar em Nova Solicitação
+[06-05-2024 10:52:00] - PROCESSO INICIADO
+[06-05-2024 10:52:01] - Etapa de coletar a senha no RSA
+[06-05-2024 10:52:04] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 10:52:04] - Etapa de entrar o SIEBEL
+[06-05-2024 10:52:48] - Etapa de entrar no SIEBEL Finalizada
+[06-05-2024 10:52:48] - Etapa de entrar em Nova Solicitação
+[06-05-2024 10:53:39] - PROCESSO INICIADO
+[06-05-2024 10:53:40] - Etapa de coletar a senha no RSA
+[06-05-2024 10:53:43] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 10:53:43] - Etapa de entrar o SIEBEL
+[06-05-2024 10:54:26] - Etapa de entrar no SIEBEL Finalizada
+[06-05-2024 10:54:26] - Etapa de entrar em Nova Solicitação
+[06-05-2024 10:54:54] - Etapa de entrar em Nova Solicitação Finalizada
+[06-05-2024 10:54:54] - Etapa de coletar os numeros dos clientes
+[06-05-2024 10:55:24] - Etapa de coletar os numeros dos clientes finalizada
+[06-05-2024 10:55:24] - Etapa de pesquisar os clientes no SIEBEL
+[06-05-2024 10:55:24] - Etapa de Pesquisar Cliente 19981910258
+[06-05-2024 10:55:43] - Etapa de Pesquisar Cliente 19981910258 Finalizada
+[06-05-2024 10:55:43] - Inicio da etapa de Coletar informações do Cliente 19981910258
+[06-05-2024 10:55:58] - Etapa da coleta de informação do cliente 19981910258 Finalizado
+[06-05-2024 10:55:58] - Etapa de download da Fatura
+[06-05-2024 10:57:11] - Colocando informações no Excel
+[06-05-2024 14:36:06] - PROCESSO INICIADO
+[06-05-2024 14:36:08] - Etapa de coletar a senha no RSA
+[06-05-2024 14:36:11] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 14:36:11] - Etapa de entrar o SIEBEL
+[06-05-2024 14:36:54] - PROCESSO INICIADO
+[06-05-2024 14:36:56] - Etapa de coletar a senha no RSA
+[06-05-2024 14:36:59] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 14:36:59] - Etapa de entrar o SIEBEL
+[06-05-2024 14:37:16] - PROCESSO INICIADO
+[06-05-2024 14:37:17] - Etapa de coletar a senha no RSA
+[06-05-2024 14:37:20] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 14:37:20] - Etapa de entrar o SIEBEL
+[06-05-2024 14:38:15] - PROCESSO INICIADO
+[06-05-2024 14:38:16] - Etapa de coletar a senha no RSA
+[06-05-2024 14:38:19] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 14:38:19] - Etapa de entrar o SIEBEL
+[06-05-2024 14:39:02] - Etapa de entrar no SIEBEL Finalizada
+[06-05-2024 14:39:02] - Etapa de entrar em Nova Solicitação
+[06-05-2024 14:39:29] - Etapa de entrar em Nova Solicitação Finalizada
+[06-05-2024 14:39:29] - Etapa de coletar os numeros dos clientes
+[06-05-2024 14:39:41] - Etapa de coletar os numeros dos clientes finalizada
+[06-05-2024 14:39:41] - Etapa de pesquisar os clientes no SIEBEL
+[06-05-2024 14:39:41] - Etapa de Pesquisar Cliente 19981910258
+[06-05-2024 14:40:00] - Etapa de Pesquisar Cliente 19981910258 Finalizada
+[06-05-2024 14:40:00] - Inicio da etapa de Coletar informações do Cliente 19981910258
+[06-05-2024 14:40:16] - Etapa da coleta de informação do cliente 19981910258 Finalizado
+[06-05-2024 14:40:16] - Etapa de download da Fatura
+[06-05-2024 14:41:33] - Colocando informações no Excel
+[06-05-2024 15:01:57] - PROCESSO INICIADO
+[06-05-2024 15:01:58] - Etapa de coletar a senha no RSA
+[06-05-2024 15:02:02] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 15:02:02] - Etapa de entrar o SIEBEL
+[06-05-2024 15:02:18] - PROCESSO INICIADO
+[06-05-2024 15:02:20] - Etapa de coletar a senha no RSA
+[06-05-2024 15:02:24] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 15:02:24] - Etapa de entrar o SIEBEL
+[06-05-2024 15:02:43] - PROCESSO INICIADO
+[06-05-2024 15:02:45] - Etapa de coletar a senha no RSA
+[06-05-2024 15:02:49] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 15:02:49] - Etapa de entrar o SIEBEL
+[06-05-2024 15:03:13] - PROCESSO INICIADO
+[06-05-2024 15:03:14] - Etapa de coletar a senha no RSA
+[06-05-2024 15:03:17] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 15:03:17] - Etapa de entrar o SIEBEL
+[06-05-2024 15:03:34] - PROCESSO INICIADO
+[06-05-2024 15:03:35] - Etapa de coletar a senha no RSA
+[06-05-2024 15:03:38] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 15:03:38] - Etapa de entrar o SIEBEL
+[06-05-2024 15:04:31] - PROCESSO INICIADO
+[06-05-2024 15:04:32] - Etapa de coletar a senha no RSA
+[06-05-2024 15:04:35] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 15:04:35] - Etapa de entrar o SIEBEL
+[06-05-2024 15:04:48] - PROCESSO INICIADO
+[06-05-2024 15:04:49] - Etapa de coletar a senha no RSA
+[06-05-2024 15:04:52] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 15:04:52] - Etapa de entrar o SIEBEL
+[06-05-2024 15:05:00] - PROCESSO INICIADO
+[06-05-2024 15:05:02] - Etapa de coletar a senha no RSA
+[06-05-2024 15:05:05] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 15:05:05] - Etapa de entrar o SIEBEL
+[06-05-2024 15:05:26] - PROCESSO INICIADO
+[06-05-2024 15:05:27] - Etapa de coletar a senha no RSA
+[06-05-2024 15:05:30] - Etapa de coletar a senha no RSA Finalizada
+[06-05-2024 15:05:30] - Etapa de entrar o SIEBEL
+[06-05-2024 15:06:14] - Etapa de entrar no SIEBEL Finalizada
+[06-05-2024 15:06:14] - Etapa de entrar em Nova Solicitação
+[06-05-2024 15:06:41] - Etapa de entrar em Nova Solicitação Finalizada
+[06-05-2024 15:06:41] - Etapa de coletar os numeros dos clientes
+[06-05-2024 15:06:52] - Etapa de coletar os numeros dos clientes finalizada
+[06-05-2024 15:06:52] - Etapa de pesquisar os clientes no SIEBEL
+[06-05-2024 15:06:52] - Etapa de Pesquisar Cliente 19981910258
+[06-05-2024 15:07:11] - Etapa de Pesquisar Cliente 19981910258 Finalizada
+[06-05-2024 15:07:11] - Inicio da etapa de Coletar informações do Cliente 19981910258
+[06-05-2024 15:07:27] - Etapa da coleta de informação do cliente 19981910258 Finalizado
+[06-05-2024 15:07:27] - Etapa de download da Fatura

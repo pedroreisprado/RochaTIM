@@ -1,0 +1,14 @@
+pip install pyautogui
+pip install easyocr
+pip install selenium
+pip install pandas
+pip install PyPDF2
+pip install openpyxl
+pip install pyperclip
+pip install bs4
+pip install win32gui
+pip install pygetwindow
+pip install xlrd
+pip install pytesseract
+pip install PyQt5
+pip install zipfile

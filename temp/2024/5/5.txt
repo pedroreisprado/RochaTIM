@@ -1,0 +1,16 @@
+[05-05-2024 01:32:39] - PROCESSO INICIADO
+[05-05-2024 01:32:41] - Etapa de coletar a senha no RSA
+[05-05-2024 01:32:44] - Etapa de coletar a senha no RSA Finalizada
+[05-05-2024 01:32:44] - Etapa de entrar o SIEBEL
+[05-05-2024 01:33:01] - PROCESSO INICIADO
+[05-05-2024 01:33:02] - Etapa de coletar a senha no RSA
+[05-05-2024 01:33:05] - Etapa de coletar a senha no RSA Finalizada
+[05-05-2024 01:33:05] - Etapa de entrar o SIEBEL
+[05-05-2024 01:33:33] - PROCESSO INICIADO
+[05-05-2024 01:33:34] - Etapa de coletar a senha no RSA
+[05-05-2024 01:33:37] - Etapa de coletar a senha no RSA Finalizada
+[05-05-2024 01:33:37] - Etapa de entrar o SIEBEL
+[05-05-2024 02:14:04] - PROCESSO INICIADO
+[05-05-2024 02:14:26] - PROCESSO INICIADO
+[05-05-2024 02:17:12] - PROCESSO INICIADO
+[05-05-2024 02:17:59] - PROCESSO INICIADO

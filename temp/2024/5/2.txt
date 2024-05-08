@@ -1,0 +1,67 @@
+[02-05-2024 20:09:12] - PROCESSO INICIADO
+[02-05-2024 20:09:15] - Etapa de coletar a senha no RSA
+[02-05-2024 20:09:18] - Etapa de coletar a senha no RSA Finalizada
+[02-05-2024 20:09:18] - Etapa de entrar o SIEBEL
+[02-05-2024 20:12:25] - PROCESSO INICIADO
+[02-05-2024 20:12:26] - Etapa de coletar a senha no RSA
+[02-05-2024 20:12:29] - Etapa de coletar a senha no RSA Finalizada
+[02-05-2024 20:12:29] - Etapa de entrar o SIEBEL
+[02-05-2024 20:13:28] - Etapa de entrar no SIEBEL Finalizada
+[02-05-2024 20:13:28] - Etapa de entrar em Nova Solicitação
+[02-05-2024 20:14:00] - Etapa de entrar em Nova Solicitação Finalizada
+[02-05-2024 20:14:00] - Etapa de coletar os numeros dos clientes
+[02-05-2024 20:14:14] - Etapa de coletar os numeros dos clientes finalizada
+[02-05-2024 20:14:14] - Etapa de pesquisar os clientes no SIEBEL
+[02-05-2024 20:14:14] - Etapa de Pesquisar Cliente 19981910258
+[02-05-2024 20:14:33] - Etapa de Pesquisar Cliente 19981910258 Finalizada
+[02-05-2024 20:14:33] - Inicio da etapa de Coletar informações do Cliente 19981910258
+[02-05-2024 20:14:49] - Etapa da coleta de informação do cliente 19981910258 Finalizado
+[02-05-2024 20:14:49] - Etapa de download da Fatura
+[02-05-2024 20:17:23] - PROCESSO INICIADO
+[02-05-2024 20:17:24] - Etapa de coletar a senha no RSA
+[02-05-2024 20:17:27] - Etapa de coletar a senha no RSA Finalizada
+[02-05-2024 20:17:27] - Etapa de entrar o SIEBEL
+[02-05-2024 20:18:26] - Etapa de entrar no SIEBEL Finalizada
+[02-05-2024 20:18:26] - Etapa de entrar em Nova Solicitação
+[02-05-2024 20:18:58] - Etapa de entrar em Nova Solicitação Finalizada
+[02-05-2024 20:18:58] - Etapa de coletar os numeros dos clientes
+[02-05-2024 20:19:12] - Etapa de coletar os numeros dos clientes finalizada
+[02-05-2024 20:19:12] - Etapa de pesquisar os clientes no SIEBEL
+[02-05-2024 20:19:12] - Etapa de Pesquisar Cliente 19981910258
+[02-05-2024 20:19:31] - Etapa de Pesquisar Cliente 19981910258 Finalizada
+[02-05-2024 20:19:31] - Inicio da etapa de Coletar informações do Cliente 19981910258
+[02-05-2024 20:19:47] - Etapa da coleta de informação do cliente 19981910258 Finalizado
+[02-05-2024 20:19:47] - Etapa de download da Fatura
+[02-05-2024 20:20:35] - Etapa de Pesquisar Cliente 14997432037
+[02-05-2024 20:21:30] - PROCESSO INICIADO
+[02-05-2024 20:21:30] - Etapa de coletar a senha no RSA
+[02-05-2024 20:21:33] - Etapa de coletar a senha no RSA Finalizada
+[02-05-2024 20:21:33] - Etapa de entrar o SIEBEL
+[02-05-2024 20:22:17] - Etapa de entrar no SIEBEL Finalizada
+[02-05-2024 20:22:17] - Etapa de entrar em Nova Solicitação
+[02-05-2024 20:22:45] - Etapa de entrar em Nova Solicitação Finalizada
+[02-05-2024 20:22:45] - Etapa de coletar os numeros dos clientes
+[02-05-2024 20:22:59] - Etapa de coletar os numeros dos clientes finalizada
+[02-05-2024 20:22:59] - Etapa de pesquisar os clientes no SIEBEL
+[02-05-2024 20:22:59] - Etapa de Pesquisar Cliente 19981910258
+[02-05-2024 20:23:18] - Etapa de Pesquisar Cliente 19981910258 Finalizada
+[02-05-2024 20:23:18] - Inicio da etapa de Coletar informações do Cliente 19981910258
+[02-05-2024 20:23:33] - Etapa da coleta de informação do cliente 19981910258 Finalizado
+[02-05-2024 20:23:33] - Etapa de download da Fatura
+[02-05-2024 20:24:42] - Etapa de Pesquisar Cliente 14997432037
+[02-05-2024 20:27:38] - PROCESSO INICIADO
+[02-05-2024 20:27:39] - Etapa de coletar a senha no RSA
+[02-05-2024 20:27:42] - Etapa de coletar a senha no RSA Finalizada
+[02-05-2024 20:27:42] - Etapa de entrar o SIEBEL
+[02-05-2024 20:28:28] - Etapa de entrar no SIEBEL Finalizada
+[02-05-2024 20:28:28] - Etapa de entrar em Nova Solicitação
+[02-05-2024 20:28:56] - Etapa de entrar em Nova Solicitação Finalizada
+[02-05-2024 20:28:56] - Etapa de coletar os numeros dos clientes
+[02-05-2024 20:29:10] - Etapa de coletar os numeros dos clientes finalizada
+[02-05-2024 20:29:10] - Etapa de pesquisar os clientes no SIEBEL
+[02-05-2024 20:29:10] - Etapa de Pesquisar Cliente 19981910258
+[02-05-2024 20:29:29] - Etapa de Pesquisar Cliente 19981910258 Finalizada
+[02-05-2024 20:29:29] - Inicio da etapa de Coletar informações do Cliente 19981910258
+[02-05-2024 20:29:45] - Etapa da coleta de informação do cliente 19981910258 Finalizado
+[02-05-2024 20:29:45] - Etapa de download da Fatura
+[02-05-2024 20:30:56] - Etapa de Pesquisar Cliente 14997432037
